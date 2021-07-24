@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Muhammad Usama Farhat
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning PHP.
 - 💞️ I’m looking to collaborate on any front end development task using HTML, CSS, Javascrit, React and React Native.
 
-#### Skills
+#### My Skills
 1. React
 2. React Native
 3. Material UI
