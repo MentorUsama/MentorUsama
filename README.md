@@ -14,7 +14,7 @@
 
 
 #### Email
-[usama.farhat.99@gmail.com](usama.farhat.99@gmail.com)
+usama.farhat.99@gmail.com
 
 #### Upwork
 [Hire me on upwork](https://www.upwork.com/freelancers/~01a36c260b24da516c)
