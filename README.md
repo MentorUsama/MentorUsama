@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Junaid Ali Khan
+- 👋 Hi, I’m Usama Farha
 - 👀 I’m interested in web development.
 - 💞️ I’m looking to collaborate on any front end development task using HTML, CSS, Javascrit, React and React Native.
 
