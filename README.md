@@ -1,8 +1,8 @@
 \- 👋 Hi, I’m Muhammad Usama Farhat
 - 👀 I’m interested in web development.
-- 💞️ I’m looking to collaborate on any front end development task using HTML, CSS, Javascrit, React and React Native.
+- 💞️ I’m looking to collaborate on web development projects.
 
-#### My Skills
+#### My Major Skills
 1. React (Next.js, React Router, Redux)
 2. React Native
 3. Material UI
@@ -10,6 +10,11 @@
 5. HTML
 6. CSS
 7. Bootstrap
+
+#### Other Skills
+1. Django
+2. MongoDB, MySql
+3. Firebase
 
 #### Website
 [My Portfolio Website](https://myportfolio-d8131.web.app/)
