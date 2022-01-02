@@ -24,3 +24,6 @@ usama.farhat.99@gmail.com
 
 #### Upwork
 [Hire me on upwork](https://www.upwork.com/freelancers/~01a36c260b24da516c)
+
+#### Whatsapp
+[Get Connect On Whatsapp](https://api.whatsapp.com/send?phone=923472547540&text=Hello,%20Muhammad%20Usama!)
