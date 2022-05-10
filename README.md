@@ -45,5 +45,5 @@
 <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mentorusama&show_icons=true&locale=en&layout=compact" alt="mentorusama" /></p>
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mentorusama)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mentorusama&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 
