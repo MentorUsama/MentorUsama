@@ -45,5 +45,5 @@
 <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mentorusama&show_icons=true&locale=en&layout=compact" alt="mentorusama" /></p>
   
-  
-<p align="left" dir="auto"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://camo.githubusercontent.com/d7ac77868f103ed692b657cd786201b101aecaa56311e9ba25b0bed5180a1397/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d6a6d666179617264" alt="jmfayard" data-canonical-src="https://github-profile-trophy.vercel.app/?username=jmfayard" style="max-width: 100%;"></a> </p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mentorusama)](https://github.com/anuraghazra/github-readme-stats)
+
