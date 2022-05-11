@@ -35,5 +35,5 @@
   
   
 <h3>Git Stats</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mentorusama&show_icons=true&locale=en&layout=compact" alt="mentorusama" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mentorusama&show_icons=true&locale=en&layout=compact" alt="mentorusama" /><br>
 [![Usama's GitHub stats](https://github-readme-stats.vercel.app/api?username=mentorusama)](https://github.com/mentorusama/github-readme-stats)
