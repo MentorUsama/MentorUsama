@@ -49,4 +49,4 @@
   
 <h3 align="left">Git Stats</h3>
 
-[![Mentoru Usama GitHub stats](https://github-readme-stats.vercel.app/api?username=mentorusama&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Mentoru Usama GitHub stats](https://github-readme-stats.vercel.app/api?username=mentorusama)](https://github.com/anuraghazra/github-readme-stats)
