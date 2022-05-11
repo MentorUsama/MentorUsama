@@ -34,7 +34,7 @@
   
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   
-<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
+<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
   
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
   
@@ -44,7 +44,7 @@
 
 <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
   
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mentorusama&show_icons=true&locale=en&layout=compact" alt="mentorusama" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mentorusama&show_icons=true&locale=en&layout=compact" alt="mentorusama" />
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mentorusama&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 
