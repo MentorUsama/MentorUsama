@@ -44,7 +44,8 @@
 
 <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
   
+<h3 align="left">Most Used Language</h3>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mentorusama&show_icons=true&locale=en&layout=compact" alt="mentorusama" />
   
+<h3 align="left">Git Stats</h3>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mentorusama&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
-
