@@ -30,10 +30,11 @@
 <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
 </div>
   
-<h3>Most Used Language</h3>
-
   
   
 <h3>Git Stats</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mentorusama&show_icons=true&locale=en&layout=compact" alt="mentorusama" /><br>
+<br>
+
 [![Usama's GitHub stats](https://github-readme-stats.vercel.app/api?username=mentorusama)](https://github.com/mentorusama/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mentorusama&show_icons=true&locale=en&layout=compact" alt="mentorusama" />
+
