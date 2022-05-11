@@ -31,10 +31,8 @@
 </div>
   
   
-  
-<h3>Git Stats</h3>
 <br>
-
+<h3>Git Stats</h3>
 [![Usama's GitHub stats](https://github-readme-stats.vercel.app/api?username=mentorusama)](https://github.com/mentorusama/github-readme-stats)
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mentorusama&show_icons=true&locale=en&layout=compact" alt="mentorusama" />
