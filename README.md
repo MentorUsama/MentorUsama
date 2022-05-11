@@ -3,7 +3,7 @@
 <br>- 💞️ I’m looking to collaborate on web development projects.
 
 <h3 align="left">Major Skills:</h3>
-<div style="display:'flex',justify-content:'space-between'">
+<div style="display:'flex',justify-content,'space-between'">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -14,7 +14,7 @@
 </div>
 
 <h3 align="left">Other Skills:</h3>
-<div style="display:'flex',justify-content:'space-between'">
+<div style="display:'flex',justify-content,'space-between'">
 <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>  
 <img src="https://static.djangoproject.com/img/logos/django-logo-positive.png" alt="django" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
