@@ -31,6 +31,10 @@
 </div>
   
   
+<h3>Get in Touch</h3>
+<div>
+  <img src="https://www.drupal.org/files/styles/grid-4-2x/public/upwork%20%281%29.png?itok=gGhxwJKt" alt="upwork" width="40" height="40"/>
+</div>
 
 <h3>Git Stats</h3>
 
