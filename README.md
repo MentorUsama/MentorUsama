@@ -36,6 +36,10 @@
   <a href="https://www.upwork.com/freelancers/~01a36c260b24da516c">
     <img src="https://www.drupal.org/files/styles/grid-4-2x/public/upwork%20%281%29.png?itok=gGhxwJKt" alt="upwork" width="40" height="40"/>
   </a>
+  <br>
+  <a href="linkedin.com/in/muhammad-usama-9539801a4" target="_blank">
+     <img src="https://content.linkedin.com/content/dam/me/busine…n-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="Linkedin" width="40" height="40"/>
+  </a>
 </div>
 
 <h3>Git Stats</h3>
