@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Hi, I’m Muhammad Usama Farhat</h1>
+<h1>Hi 👋, I’m Muhammad Usama Farhat</h1>
 <br>- 👀 I’m interested in web development.
 <br>- 💞️ I’m looking to collaborate on web development projects.
 
