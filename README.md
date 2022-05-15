@@ -33,7 +33,9 @@
   
 <h3>Get in Touch</h3>
 <div>
-  <img src="https://www.drupal.org/files/styles/grid-4-2x/public/upwork%20%281%29.png?itok=gGhxwJKt" alt="upwork" width="40" height="40"/>
+  <a href="https://www.upwork.com/freelancers/~01a36c260b24da516c">
+    <img src="https://www.drupal.org/files/styles/grid-4-2x/public/upwork%20%281%29.png?itok=gGhxwJKt" alt="upwork" width="40" height="40"/>
+  </a>
 </div>
 
 <h3>Git Stats</h3>
